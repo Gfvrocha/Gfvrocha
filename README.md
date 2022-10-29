@@ -4,6 +4,7 @@
 
 ![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=gfvrocha&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gfvrocha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="c#" src=https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white />
